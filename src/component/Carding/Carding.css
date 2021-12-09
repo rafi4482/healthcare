@@ -1,8 +1,10 @@
 .carding{
    background-color: rgb(22, 173, 85);
    border-radius: 5px;
-    height: 400px;
+   padding: 20px;
+    height: 500px;
     border: 2px solid blue;
+    margin-bottom: 5px;
     margin-top: 20px;
 }
  .cards-align{

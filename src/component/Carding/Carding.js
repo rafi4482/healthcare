@@ -25,7 +25,7 @@ const Carding = () => {
 
                     {
 
-                        card.map(cards => <div className='col-md-2'>
+                        card.map(cards => <div className='col-md-4'>
                             <div className="carding">
                                 <div className="image">
                                     <img className='w-75' src={cards.img} alt="" />
